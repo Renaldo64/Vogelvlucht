@@ -1,0 +1,54 @@
+body{
+    background-color: #82cd47;
+}
+header{
+    background-color: #379237;
+    width: auto;
+    height: 100px;
+    padding: 5px;
+    text-align: center;
+    color: #f0ff42;
+}
+footer{
+    background-color: #f0ff42;
+    width: auto;
+    height: 30px;
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 15px;
+    color: black;
+}
+button{
+    background-color: #f0ff42;
+    width: 80px;
+    height: 35px;
+}
+.p2{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(12, 11, 11);
+}
+hr{
+    background-color:  #379237;
+    height: 3px;
+}
+#images{
+    display: inline-block;
+    width: 250;
+    height: 200;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+#contactform{
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 5px;
+}
+textarea{
+    width: 400px;
+    height: 80px;
+    padding: 5px;
+}
+#bericht{
+    text-align: center;
+}
